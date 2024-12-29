@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lexus.com.sa	TRUE	/	FALSE	1999999999	ARRAffinity	6dec0997e21dec30ce7ef102ebaec80934d28e2723296e23b047a25a64c195a9
+www.lexus.com.sa	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	pka4hrrc45b1xxpgdokcjhrs
+www.lexus.com.sa	TRUE	/	FALSE	1999999999	SameSite	Lax
+lexus.com.sa	TRUE	/	FALSE	1999999999	SC_ANALYTICS_GLOBAL_COOKIE	6f909c7312354c8e98bb5c2c74ad03a0|False
+www.lexus.com.sa	TRUE	/	FALSE	1999999999	__RequestVerificationToken	AweBB6UvDLPDIZUosKfVQtF4lYr3IvVzcZyja-eYUvKqMn6BsHx51QKdVxy1uddJD-hmaQErdbiy6LKVxtSZt5XqO2L4-u30sk8ov_oAknc1
+
